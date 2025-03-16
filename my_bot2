@@ -64,4 +64,4 @@ async def animal(ctx):
         picture = discord.File(f)
     await ctx.send(file=picture)
 
-bot.run("MTM0NzgwNDU0NTk2NjkzMjAxOA.GEb-_L.E8bHk1kCmtQ-f4_RfyGTXOjGNm8l2xR2uCC_GY")
+bot.run("TOKEN")
