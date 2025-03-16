@@ -1,4 +1,4 @@
 # Discord-Bots
 Cool bot commands
 
-Put the memes on a folder named with your variable
+Put memes and animals separated on a folder named with your variable
